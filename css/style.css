@@ -1,0 +1,17 @@
+body {
+  background-color: slategray;
+  color: whitesmoke;
+}
+
+header img {
+  width: 100px;
+}
+
+main .movie {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+main img {
+  width: 200px;
+  border-radius: 15px;
+}
